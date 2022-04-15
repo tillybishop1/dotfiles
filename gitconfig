@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tillybishop@btinternet.com
+	name = Tilly Bishop
